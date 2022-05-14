@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AllFather11
-- 👀 I’m interested in cpp python nad ethical hacking 
+- 👀 I’m interested in cpp python and ethical hacking 
 - 🌱 I’m currently learning cpp 
-- 💞️ I’m looking to collaborate on a cyer project 
+- 💞️ I’m looking to collaborate on any project within my boundaries
 :- 📫 How to reach me Email:yashnaresh11@gmail.com
 
 <!---
